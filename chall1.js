@@ -1,9 +1,9 @@
 let student = {
-firstName: "Hmida",
-lastName: "sttar",
-age: "35" ,
-city: "Agadir",
-school: "la fac"
+    firstName: "Hmida",
+    lastName: "sttar",
+    age: "35",
+    city: "Agadir",
+    school: "la fac"
 
 };
 console.log("Prénom : " + student.firstName)
