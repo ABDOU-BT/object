@@ -4,13 +4,13 @@ let user = {
     age: 22,
     city: "Marrakech",
     status: "student",
-    email : "ahmed@gmail.com"
+    email: "ahmed@gmail.com"
 };
 console.log(user.username);
 console.log(user.age)
- user.age = 30
+user.age = 30
 user.city = "tanger"
 user.status = "Employer"
-console.log (user);
+console.log(user);
 
 
